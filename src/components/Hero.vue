@@ -2,6 +2,10 @@
     <div class="hero">
         <h1 class="hero-title" v-html="settings.hero_title" />
         <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
+         <Button
+          href="/journal/gridsome-forestry-cms"
+          class="is-dark"
+        >Lire cet article</Button>
     </div>
 </template>
 
