@@ -30,5 +30,6 @@ export default {
 .is-dark {
   background: black;
   color: white;
+  border-radius: 20px;
 }
 </style>
