@@ -20,16 +20,17 @@ export default {
 
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 * {
   box-sizing: border-box;
 }
 
 body {
   --color-base: rgb(255, 255, 255);
-  --color-base-1: rgb(243, 243, 243);
+  --color-base-1: rgb(56, 92, 126);
   --color-contrast: rgb(0, 0, 0);
-  --color-contrast-1: rgb(43, 43, 43);
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --color-contrast-1: rgb(78, 35, 75);
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Josefin Sans",Roboto,"Helvetica Neue",Arial,sans-serif;
   margin:0;
   padding: 0;
   font-size: 16px;
