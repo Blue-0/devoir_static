@@ -29,7 +29,7 @@ body {
   --color-base: rgb(255, 255, 255);
   --color-base-1: rgb(56, 92, 126);
   --color-contrast: rgb(0, 0, 0);
-  --color-contrast-1: rgb(78, 35, 75);
+  --color-contrast-1: rgb(63, 63, 63);
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Josefin Sans",Roboto,"Helvetica Neue",Arial,sans-serif;
   margin:0;
   padding: 0;
@@ -41,7 +41,7 @@ body {
 
 body.dark {
   --color-base: rgb(0, 0, 0);
-  --color-base-1: rgb(43, 43, 43);
+  --color-base-1: rgb(44, 18, 51);
   --color-contrast: rgb(255, 255, 255);
   --color-contrast-1: rgb(243, 243, 243);
 }
